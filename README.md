@@ -70,5 +70,10 @@ Aplikasi manajemen koleksi buku berbasis web (Flutter Web) yang memungkinkan pen
 - **Supabase** – Backend as a Service untuk autentikasi & database
 - **SharedPreferences** – Untuk menyimpan sesi login dan onboarding lokal
 
+---
+## Dummy Login
+
+- **Email** : user@example.com
+- **Password** : password
 
 
