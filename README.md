@@ -9,9 +9,11 @@ Aplikasi manajemen koleksi buku berbasis web (Flutter Web) yang memungkinkan pen
 - **Autentikasi**
   - Sign up dan login menggunakan email dan password.
   - Session disimpan menggunakan `SharedPreferences`.
-
+- **Profile Page**
+  - Mengedit nama user di halaman profil, lalu disave di metadata Supabase
 - **Manajemen Buku**
   - Tambah, edit, dan hapus buku.
+  - Pencarian buku ketika tambah buku menggunakan API service dari OpenLibrary untuk memudahkan pencarian
   - Setiap buku memiliki status: `Not Read`, `Reading`, atau `Finished`.
 
 - **Filter Buku**
